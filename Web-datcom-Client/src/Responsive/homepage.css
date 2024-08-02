@@ -1,0 +1,8 @@
+/* reponsive
+/* Mobile */
+
+@media (min-width: 430px) and (min-height: 926px) {
+    .ket {
+        font-size: 15px;
+    }
+}
